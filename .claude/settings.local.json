@@ -1,7 +1,8 @@
 {
   "permissions": {
     "allow": [
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(git commit -m \"$(cat <<''EOF''\nRediseño completo del formulario de pedidos desde cero\n\n- Eliminada toda la interfaz anterior desordenada\n- Creada nueva estructura limpia y profesional sin emojis\n- Implementado sistema de gestión de pedidos con:\n  * Sección de información del cliente con selector y modal\n  * Sección de detalles del pedido (número, fecha, estado, notas)\n  * Lista dinámica de productos con cálculo de subtotales\n  * Contenedor de total general con diseño destacado\n  * Botones de acción (Cancelar, Limpiar, Guardar)\n- Mejorada la lógica de JavaScript en OrderUtils con validaciones\n- Diseño responsive con espaciado consistente y colores profesionales\n- Validaciones completas antes de guardar el pedido\n\n🤖 Generated with [Claude Code](https://claude.com/claude-code)\n\nCo-Authored-By: Claude <noreply@anthropic.com>\nEOF\n)\")"
     ],
     "deny": [],
     "ask": []
