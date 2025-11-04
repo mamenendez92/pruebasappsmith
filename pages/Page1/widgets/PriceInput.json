@@ -1,0 +1,15 @@
+{
+  "bottomRow": 5,
+  "defaultText": "{{currentItem.precioUnitario || 0}}",
+  "inputType": "NUMBER",
+  "isRequired": true,
+  "label": "Precio Unit. (€)",
+  "labelTextSize": "0.875rem",
+  "leftColumn": 29,
+  "placeholderText": "0.00",
+  "rightColumn": 37,
+  "topRow": 1,
+  "type": "INPUT_WIDGET_V2",
+  "widgetId": "priceInput",
+  "widgetName": "PriceInput"
+}

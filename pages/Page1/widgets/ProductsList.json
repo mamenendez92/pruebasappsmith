@@ -1,0 +1,13 @@
+{
+  "backgroundColor": "#FFFFFF",
+  "bottomRow": 75,
+  "itemBackgroundColor": "#F9FAFB",
+  "itemSpacing": 8,
+  "leftColumn": 2,
+  "listData": "{{appsmith.store.productsList || []}}",
+  "rightColumn": 50,
+  "topRow": 56,
+  "type": "LIST_WIDGET_V2",
+  "widgetId": "productsList",
+  "widgetName": "ProductsList"
+}

@@ -1,0 +1,48 @@
+{
+  "bottomRow": 5,
+  "defaultOptionValue": "{{currentItem.producto}}",
+  "isRequired": true,
+  "label": "Producto",
+  "labelTextSize": "0.875rem",
+  "leftColumn": 1,
+  "options": [
+    {
+      "label": "Laptop Dell XPS 13 (899€)",
+      "value": "laptop-dell-xps"
+    },
+    {
+      "label": "Mouse Logitech MX Master 3 (79€)",
+      "value": "mouse-logitech"
+    },
+    {
+      "label": "Teclado Mecánico RGB (129€)",
+      "value": "keyboard-mech"
+    },
+    {
+      "label": "Monitor LG UltraWide 29\" (299€)",
+      "value": "monitor-lg"
+    },
+    {
+      "label": "Webcam Logitech C920 (89€)",
+      "value": "webcam-logitech"
+    },
+    {
+      "label": "Auriculares Sony WH-1000XM4 (249€)",
+      "value": "headphones-sony"
+    },
+    {
+      "label": "Tablet Samsung Galaxy Tab (349€)",
+      "value": "tablet-samsung"
+    },
+    {
+      "label": "Impresora HP LaserJet (189€)",
+      "value": "printer-hp"
+    }
+  ],
+  "placeholderText": "Seleccionar...",
+  "rightColumn": 20,
+  "topRow": 1,
+  "type": "SELECT_WIDGET",
+  "widgetId": "productSelectItem",
+  "widgetName": "ProductSelect"
+}

@@ -1,0 +1,12 @@
+{
+  "bottomRow": 24,
+  "dividerColor": "#D1D5DB",
+  "leftColumn": 0,
+  "orientation": "horizontal",
+  "rightColumn": 64,
+  "strokeStyle": "dashed",
+  "topRow": 23,
+  "type": "DIVIDER_WIDGET",
+  "widgetId": "divider2",
+  "widgetName": "Divider2"
+}

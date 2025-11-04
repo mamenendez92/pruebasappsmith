@@ -1,0 +1,15 @@
+{
+  "bottomRow": 5,
+  "defaultText": "{{currentItem.cantidad || 1}}",
+  "inputType": "NUMBER",
+  "isRequired": true,
+  "label": "Cantidad",
+  "labelTextSize": "0.875rem",
+  "leftColumn": 21,
+  "placeholderText": "1",
+  "rightColumn": 28,
+  "topRow": 1,
+  "type": "INPUT_WIDGET_V2",
+  "widgetId": "quantityInput",
+  "widgetName": "QuantityInput"
+}

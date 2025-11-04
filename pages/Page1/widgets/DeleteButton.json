@@ -1,0 +1,12 @@
+{
+  "bottomRow": 5,
+  "buttonColor": "#EF4444",
+  "iconName": "trash",
+  "leftColumn": 46,
+  "onClick": "{{OrderUtils.removeProduct(currentIndex)}}",
+  "rightColumn": 48,
+  "topRow": 1,
+  "type": "ICON_BUTTON_WIDGET",
+  "widgetId": "deleteBtn",
+  "widgetName": "DeleteButton"
+}

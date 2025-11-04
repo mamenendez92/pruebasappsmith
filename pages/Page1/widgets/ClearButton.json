@@ -1,0 +1,14 @@
+{
+  "bottomRow": 90,
+  "buttonColor": "#F59E0B",
+  "buttonStyle": "SECONDARY",
+  "isVisible": true,
+  "leftColumn": 17,
+  "onClick": "{{OrderUtils.clearForm()}}",
+  "rightColumn": 30,
+  "text": "Limpiar Todo",
+  "topRow": 85,
+  "type": "BUTTON_WIDGET",
+  "widgetId": "clearBtn",
+  "widgetName": "ClearButton"
+}
