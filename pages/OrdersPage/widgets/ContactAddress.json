@@ -1,0 +1,12 @@
+{
+  "bottomRow": 12,
+  "fontSize": "0.875rem",
+  "leftColumn": 28,
+  "rightColumn": 55,
+  "text": "Dir: {{OrderManagement.getSelectedContactInfo()?.address || 'No especificada'}}",
+  "textColor": "#6B7280",
+  "topRow": 9,
+  "type": "TEXT_WIDGET",
+  "widgetId": "contactAddress",
+  "widgetName": "ContactAddress"
+}

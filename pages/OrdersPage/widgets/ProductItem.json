@@ -1,0 +1,12 @@
+{
+  "backgroundColor": "#F9FAFB",
+  "borderRadius": "0.5rem",
+  "bottomRow": 8,
+  "boxShadow": "0 1px 3px rgba(0,0,0,0.1)",
+  "leftColumn": 0,
+  "rightColumn": 56,
+  "topRow": 0,
+  "type": "CONTAINER_WIDGET",
+  "widgetId": "productItem",
+  "widgetName": "ProductItem"
+}

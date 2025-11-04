@@ -1,0 +1,14 @@
+{
+  "bottomRow": 5,
+  "fontSize": "1.5rem",
+  "fontStyle": "BOLD",
+  "leftColumn": 14,
+  "rightColumn": 26,
+  "text": "{{OrderManagement.calculateTotal().toFixed(2)}} €",
+  "textAlign": "LEFT",
+  "textColor": "#059669",
+  "topRow": 1,
+  "type": "TEXT_WIDGET",
+  "widgetId": "totalAmount",
+  "widgetName": "TotalAmount"
+}

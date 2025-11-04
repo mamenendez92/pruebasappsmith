@@ -1,0 +1,15 @@
+{
+  "bottomRow": 50,
+  "defaultText": "{{`PED-${new Date().getFullYear()}${String(new Date().getMonth()+1).padStart(2,'0')}-${String(Date.now()).slice(-4)}`}}",
+  "inputType": "TEXT",
+  "isRequired": true,
+  "label": "Número de Pedido *",
+  "labelTextSize": "1rem",
+  "leftColumn": 2,
+  "placeholderText": "PED-XXXX",
+  "rightColumn": 22,
+  "topRow": 43,
+  "type": "INPUT_WIDGET_V2",
+  "widgetId": "orderNumber",
+  "widgetName": "OrderNumber"
+}

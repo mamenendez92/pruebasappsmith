@@ -1,0 +1,12 @@
+{
+  "bottomRow": 8,
+  "fontSize": "0.875rem",
+  "leftColumn": 28,
+  "rightColumn": 55,
+  "text": "{{OrderManagement.getSelectedContactInfo()?.email || ''}}",
+  "textColor": "#6B7280",
+  "topRow": 5,
+  "type": "TEXT_WIDGET",
+  "widgetId": "contactEmail",
+  "widgetName": "ContactEmail"
+}

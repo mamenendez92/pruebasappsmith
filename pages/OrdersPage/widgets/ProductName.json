@@ -1,0 +1,15 @@
+{
+  "bottomRow": 6,
+  "defaultText": "{{currentItem.name}}",
+  "inputType": "TEXT",
+  "label": "Producto *",
+  "labelTextSize": "0.875rem",
+  "leftColumn": 1,
+  "onTextChanged": "{{OrderManagement.updateProduct(currentItem.id, 'name', ProductName.text)}}",
+  "placeholderText": "Nombre del producto",
+  "rightColumn": 24,
+  "topRow": 1,
+  "type": "INPUT_WIDGET_V2",
+  "widgetId": "productName",
+  "widgetName": "ProductName"
+}

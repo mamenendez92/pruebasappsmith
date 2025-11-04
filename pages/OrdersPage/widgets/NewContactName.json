@@ -1,0 +1,14 @@
+{
+  "bottomRow": 14,
+  "inputType": "TEXT",
+  "isRequired": true,
+  "label": "Nombre Completo *",
+  "labelTextSize": "1rem",
+  "leftColumn": 1,
+  "placeholderText": "Ej: Juan Pérez González",
+  "rightColumn": 27,
+  "topRow": 7,
+  "type": "INPUT_WIDGET_V2",
+  "widgetId": "newContactName",
+  "widgetName": "NewContactName"
+}

@@ -1,0 +1,14 @@
+{
+  "bottomRow": 106,
+  "buttonColor": "#10B981",
+  "buttonStyle": "PRIMARY",
+  "isDisabled": "{{!ContactSelector.selectedOptionValue || !OrderNumber.text || !OrderDate.selectedDate || (appsmith.store.orderProducts || []).length === 0}}",
+  "leftColumn": 38,
+  "onClick": "{{OrderManagement.saveOrder()}}",
+  "rightColumn": 58,
+  "text": "Guardar Pedido",
+  "topRow": 100,
+  "type": "BUTTON_WIDGET",
+  "widgetId": "saveOrderBtn",
+  "widgetName": "SaveOrderBtn"
+}

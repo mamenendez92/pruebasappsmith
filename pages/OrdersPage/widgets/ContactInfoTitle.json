@@ -1,0 +1,13 @@
+{
+  "bottomRow": 4,
+  "fontSize": "1rem",
+  "fontStyle": "BOLD",
+  "leftColumn": 1,
+  "rightColumn": 55,
+  "text": "Datos del Contacto Seleccionado:",
+  "textColor": "#4B5563",
+  "topRow": 1,
+  "type": "TEXT_WIDGET",
+  "widgetId": "contactInfoTitle",
+  "widgetName": "ContactInfoTitle"
+}

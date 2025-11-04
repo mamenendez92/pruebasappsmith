@@ -1,0 +1,13 @@
+{
+  "backgroundColor": "#F9FAFB",
+  "borderRadius": "0.5rem",
+  "bottomRow": 32,
+  "boxShadow": "0 1px 2px rgba(0,0,0,0.05)",
+  "isVisible": "{{!!ContactSelector.selectedOptionValue}}",
+  "leftColumn": 2,
+  "rightColumn": 58,
+  "topRow": 19,
+  "type": "CONTAINER_WIDGET",
+  "widgetId": "contactInfoDisplay",
+  "widgetName": "ContactInfoDisplay"
+}

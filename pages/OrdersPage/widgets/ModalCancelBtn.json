@@ -1,0 +1,13 @@
+{
+  "bottomRow": 47,
+  "buttonColor": "#6B7280",
+  "buttonStyle": "SECONDARY",
+  "leftColumn": 1,
+  "onClick": "{{closeModal('NewContactModal')}}",
+  "rightColumn": 12,
+  "text": "Cancelar",
+  "topRow": 41,
+  "type": "BUTTON_WIDGET",
+  "widgetId": "modalCancelBtn",
+  "widgetName": "ModalCancelBtn"
+}

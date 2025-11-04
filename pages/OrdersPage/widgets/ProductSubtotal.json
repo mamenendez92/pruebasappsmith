@@ -1,0 +1,14 @@
+{
+  "bottomRow": 5,
+  "fontSize": "1.125rem",
+  "fontStyle": "BOLD",
+  "leftColumn": 42,
+  "rightColumn": 51,
+  "text": "{{((currentItem.quantity || 0) * (currentItem.unitPrice || 0)).toFixed(2)}} €",
+  "textAlign": "CENTER",
+  "textColor": "#059669",
+  "topRow": 2,
+  "type": "TEXT_WIDGET",
+  "widgetId": "productSubtotal",
+  "widgetName": "ProductSubtotal"
+}

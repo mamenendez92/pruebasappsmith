@@ -1,0 +1,15 @@
+{
+  "bottomRow": 6,
+  "defaultText": "{{currentItem.unitPrice}}",
+  "inputType": "NUMBER",
+  "label": "Precio Unit. (€) *",
+  "labelTextSize": "0.875rem",
+  "leftColumn": 33,
+  "onTextChanged": "{{OrderManagement.updateProduct(currentItem.id, 'unitPrice', Number(ProductPrice.text))}}",
+  "placeholderText": "0.00",
+  "rightColumn": 41,
+  "topRow": 1,
+  "type": "INPUT_WIDGET_V2",
+  "widgetId": "productPrice",
+  "widgetName": "ProductPrice"
+}

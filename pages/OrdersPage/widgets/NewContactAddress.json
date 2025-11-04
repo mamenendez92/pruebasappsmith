@@ -1,0 +1,13 @@
+{
+  "bottomRow": 38,
+  "inputType": "TEXT",
+  "label": "Dirección",
+  "labelTextSize": "1rem",
+  "leftColumn": 1,
+  "placeholderText": "Calle, número, código postal, ciudad...",
+  "rightColumn": 27,
+  "topRow": 31,
+  "type": "INPUT_WIDGET_V2",
+  "widgetId": "newContactAddress",
+  "widgetName": "NewContactAddress"
+}

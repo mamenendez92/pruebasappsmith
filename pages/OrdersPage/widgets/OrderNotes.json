@@ -1,0 +1,13 @@
+{
+  "bottomRow": 59,
+  "inputType": "TEXT",
+  "label": "Notas u Observaciones",
+  "labelTextSize": "1rem",
+  "leftColumn": 2,
+  "placeholderText": "Agregue cualquier observación sobre el pedido...",
+  "rightColumn": 58,
+  "topRow": 52,
+  "type": "INPUT_WIDGET_V2",
+  "widgetId": "orderNotes",
+  "widgetName": "OrderNotes"
+}

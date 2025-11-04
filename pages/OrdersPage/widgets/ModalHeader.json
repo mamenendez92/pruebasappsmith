@@ -1,0 +1,13 @@
+{
+  "bottomRow": 5,
+  "fontSize": "1.5rem",
+  "fontStyle": "BOLD",
+  "leftColumn": 1,
+  "rightColumn": 27,
+  "text": "Agregar Nuevo Contacto",
+  "textColor": "#1F2937",
+  "topRow": 1,
+  "type": "TEXT_WIDGET",
+  "widgetId": "modalHeader",
+  "widgetName": "ModalHeader"
+}

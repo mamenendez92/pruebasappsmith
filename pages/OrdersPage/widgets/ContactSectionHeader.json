@@ -1,0 +1,14 @@
+{
+  "bottomRow": 6,
+  "fontSize": "1.5rem",
+  "fontStyle": "BOLD",
+  "leftColumn": 2,
+  "rightColumn": 58,
+  "text": "1. Información del Contacto",
+  "textAlign": "LEFT",
+  "textColor": "#374151",
+  "topRow": 2,
+  "type": "TEXT_WIDGET",
+  "widgetId": "contactSectionHeader",
+  "widgetName": "ContactSectionHeader"
+}

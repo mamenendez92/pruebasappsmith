@@ -1,0 +1,14 @@
+{
+  "bottomRow": 50,
+  "dateFormat": "DD/MM/YYYY",
+  "defaultDate": "{{moment().format('DD/MM/YYYY')}}",
+  "isRequired": true,
+  "label": "Fecha del Pedido *",
+  "labelTextSize": "1rem",
+  "leftColumn": 24,
+  "rightColumn": 40,
+  "topRow": 43,
+  "type": "DATE_PICKER_WIDGET2",
+  "widgetId": "orderDate",
+  "widgetName": "OrderDate"
+}

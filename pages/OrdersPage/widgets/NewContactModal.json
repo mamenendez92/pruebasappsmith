@@ -1,0 +1,10 @@
+{
+  "bottomRow": 70,
+  "isVisible": false,
+  "leftColumn": 18,
+  "rightColumn": 46,
+  "topRow": 20,
+  "type": "MODAL_WIDGET",
+  "widgetId": "newContactModal",
+  "widgetName": "NewContactModal"
+}

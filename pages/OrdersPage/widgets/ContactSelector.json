@@ -1,0 +1,17 @@
+{
+  "bottomRow": 17,
+  "defaultOptionValue": "",
+  "isFilterable": true,
+  "isRequired": true,
+  "label": "Seleccionar Contacto *",
+  "labelTextSize": "1rem",
+  "leftColumn": 2,
+  "options": "{{OrderManagement.getContactOptions()}}",
+  "placeholderText": "Buscar contacto por nombre o email...",
+  "rightColumn": 38,
+  "serverSideFiltering": false,
+  "topRow": 10,
+  "type": "SELECT_WIDGET",
+  "widgetId": "contactSelector",
+  "widgetName": "ContactSelector"
+}

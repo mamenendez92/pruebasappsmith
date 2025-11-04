@@ -1,0 +1,13 @@
+{
+  "bottomRow": 106,
+  "buttonColor": "#F59E0B",
+  "buttonStyle": "SECONDARY",
+  "leftColumn": 2,
+  "onClick": "{{OrderManagement.clearForm()}}",
+  "rightColumn": 16,
+  "text": "Limpiar Formulario",
+  "topRow": 100,
+  "type": "BUTTON_WIDGET",
+  "widgetId": "clearFormBtn",
+  "widgetName": "ClearFormBtn"
+}

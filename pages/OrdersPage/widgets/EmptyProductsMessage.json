@@ -1,0 +1,14 @@
+{
+  "bottomRow": 75,
+  "fontSize": "1rem",
+  "isVisible": "{{(appsmith.store.orderProducts || []).length === 0}}",
+  "leftColumn": 2,
+  "rightColumn": 58,
+  "text": "No hay productos en este pedido. Haga clic en '+ Agregar Producto' para comenzar.",
+  "textAlign": "CENTER",
+  "textColor": "#9CA3AF",
+  "topRow": 70,
+  "type": "TEXT_WIDGET",
+  "widgetId": "emptyProductsMessage",
+  "widgetName": "EmptyProductsMessage"
+}

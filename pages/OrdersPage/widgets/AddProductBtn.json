@@ -1,0 +1,13 @@
+{
+  "bottomRow": 66,
+  "buttonColor": "#10B981",
+  "buttonStyle": "PRIMARY",
+  "leftColumn": 42,
+  "onClick": "{{OrderManagement.addProductToOrder()}}",
+  "rightColumn": 58,
+  "text": "+ Agregar Producto",
+  "topRow": 62,
+  "type": "BUTTON_WIDGET",
+  "widgetId": "addProductBtn",
+  "widgetName": "AddProductBtn"
+}

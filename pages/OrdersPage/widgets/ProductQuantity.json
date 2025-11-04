@@ -1,0 +1,15 @@
+{
+  "bottomRow": 6,
+  "defaultText": "{{currentItem.quantity}}",
+  "inputType": "NUMBER",
+  "label": "Cantidad *",
+  "labelTextSize": "0.875rem",
+  "leftColumn": 25,
+  "onTextChanged": "{{OrderManagement.updateProduct(currentItem.id, 'quantity', Number(ProductQuantity.text))}}",
+  "placeholderText": "1",
+  "rightColumn": 32,
+  "topRow": 1,
+  "type": "INPUT_WIDGET_V2",
+  "widgetId": "productQuantity",
+  "widgetName": "ProductQuantity"
+}

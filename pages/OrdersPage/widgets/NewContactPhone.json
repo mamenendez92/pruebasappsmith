@@ -1,0 +1,13 @@
+{
+  "bottomRow": 30,
+  "inputType": "PHONE_NUMBER",
+  "label": "Teléfono",
+  "labelTextSize": "1rem",
+  "leftColumn": 1,
+  "placeholderText": "+34 600 000 000",
+  "rightColumn": 27,
+  "topRow": 23,
+  "type": "INPUT_WIDGET_V2",
+  "widgetId": "newContactPhone",
+  "widgetName": "NewContactPhone"
+}

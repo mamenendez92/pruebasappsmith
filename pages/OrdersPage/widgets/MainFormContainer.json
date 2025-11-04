@@ -1,0 +1,12 @@
+{
+  "backgroundColor": "#FFFFFF",
+  "borderRadius": "0.75rem",
+  "bottomRow": 115,
+  "boxShadow": "0 4px 6px rgba(0,0,0,0.1)",
+  "leftColumn": 2,
+  "rightColumn": 62,
+  "topRow": 10,
+  "type": "CONTAINER_WIDGET",
+  "widgetId": "mainFormContainer",
+  "widgetName": "MainFormContainer"
+}

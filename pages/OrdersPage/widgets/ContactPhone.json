@@ -1,0 +1,12 @@
+{
+  "bottomRow": 12,
+  "fontSize": "0.875rem",
+  "leftColumn": 1,
+  "rightColumn": 27,
+  "text": "Tel: {{OrderManagement.getSelectedContactInfo()?.phone || 'No especificado'}}",
+  "textColor": "#6B7280",
+  "topRow": 9,
+  "type": "TEXT_WIDGET",
+  "widgetId": "contactPhone",
+  "widgetName": "ContactPhone"
+}

@@ -1,0 +1,13 @@
+{
+  "bottomRow": 8,
+  "fontSize": "1.125rem",
+  "fontStyle": "BOLD",
+  "leftColumn": 1,
+  "rightColumn": 27,
+  "text": "{{OrderManagement.getSelectedContactInfo()?.name || ''}}",
+  "textColor": "#1F2937",
+  "topRow": 5,
+  "type": "TEXT_WIDGET",
+  "widgetId": "contactName",
+  "widgetName": "ContactName"
+}

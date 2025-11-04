@@ -1,0 +1,14 @@
+{
+  "bottomRow": 5,
+  "fontSize": "1.5rem",
+  "fontStyle": "BOLD",
+  "leftColumn": 2,
+  "rightColumn": 13,
+  "text": "TOTAL:",
+  "textAlign": "RIGHT",
+  "textColor": "#1E40AF",
+  "topRow": 1,
+  "type": "TEXT_WIDGET",
+  "widgetId": "totalLabel",
+  "widgetName": "TotalLabel"
+}

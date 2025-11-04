@@ -1,0 +1,14 @@
+{
+  "bottomRow": 22,
+  "inputType": "EMAIL",
+  "isRequired": true,
+  "label": "Correo Electrónico *",
+  "labelTextSize": "1rem",
+  "leftColumn": 1,
+  "placeholderText": "ejemplo@correo.com",
+  "rightColumn": 27,
+  "topRow": 15,
+  "type": "INPUT_WIDGET_V2",
+  "widgetId": "newContactEmail",
+  "widgetName": "NewContactEmail"
+}

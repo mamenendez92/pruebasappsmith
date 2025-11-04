@@ -1,0 +1,12 @@
+{
+  "bottomRow": 5,
+  "buttonColor": "#EF4444",
+  "iconName": "trash",
+  "leftColumn": 52,
+  "onClick": "{{OrderManagement.removeProduct(currentItem.id)}}",
+  "rightColumn": 55,
+  "topRow": 2,
+  "type": "ICON_BUTTON_WIDGET",
+  "widgetId": "removeProductBtn",
+  "widgetName": "RemoveProductBtn"
+}

@@ -1,0 +1,12 @@
+{
+  "backgroundColor": "#DBEAFE",
+  "borderRadius": "0.5rem",
+  "bottomRow": 96,
+  "boxShadow": "0 2px 4px rgba(0,0,0,0.1)",
+  "leftColumn": 30,
+  "rightColumn": 58,
+  "topRow": 90,
+  "type": "CONTAINER_WIDGET",
+  "widgetId": "totalSection",
+  "widgetName": "TotalSection"
+}
