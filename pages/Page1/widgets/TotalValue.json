@@ -1,0 +1,14 @@
+{
+  "bottomRow": 3,
+  "fontSize": "1.25rem",
+  "fontStyle": "BOLD",
+  "leftColumn": 10,
+  "rightColumn": 19,
+  "text": "{{(appsmith.store.productsList || []).reduce((sum, item) => sum + (item.cantidad * item.precioUnitario), 0).toFixed(2)}} €",
+  "textAlign": "LEFT",
+  "textColor": "#03B365",
+  "topRow": 1,
+  "type": "TEXT_WIDGET",
+  "widgetId": "textTotalValue",
+  "widgetName": "TotalValue"
+}

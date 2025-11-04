@@ -1,0 +1,13 @@
+{
+  "bottomRow": 39,
+  "inputType": "TEXT",
+  "label": "Notas",
+  "labelTextSize": "0.875rem",
+  "leftColumn": 25,
+  "placeholderText": "Observaciones adicionales...",
+  "rightColumn": 48,
+  "topRow": 32,
+  "type": "INPUT_WIDGET_V2",
+  "widgetId": "inputNotes",
+  "widgetName": "OrderNotesInput"
+}

@@ -1,0 +1,12 @@
+{
+  "bottomRow": 4,
+  "fontSize": "1.25rem",
+  "fontStyle": "BOLD",
+  "leftColumn": 1,
+  "rightColumn": 30,
+  "text": "Nuevo Cliente",
+  "topRow": 1,
+  "type": "TEXT_WIDGET",
+  "widgetId": "modalTitle",
+  "widgetName": "ModalTitle"
+}

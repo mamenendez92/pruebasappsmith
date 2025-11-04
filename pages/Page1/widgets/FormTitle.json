@@ -1,0 +1,14 @@
+{
+  "bottomRow": 5,
+  "fontSize": "1.5rem",
+  "fontStyle": "BOLD",
+  "leftColumn": 1,
+  "rightColumn": 40,
+  "text": "Registro de Pedidos",
+  "textAlign": "LEFT",
+  "textColor": "#231F20",
+  "topRow": 1,
+  "type": "TEXT_WIDGET",
+  "widgetId": "title1",
+  "widgetName": "FormTitle"
+}

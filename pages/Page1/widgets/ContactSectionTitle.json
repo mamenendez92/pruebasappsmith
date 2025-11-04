@@ -1,0 +1,14 @@
+{
+  "bottomRow": 10,
+  "fontSize": "1.125rem",
+  "fontStyle": "BOLD",
+  "leftColumn": 1,
+  "rightColumn": 30,
+  "text": "Información del Cliente",
+  "textAlign": "LEFT",
+  "textColor": "#231F20",
+  "topRow": 7,
+  "type": "TEXT_WIDGET",
+  "widgetId": "sectionContact",
+  "widgetName": "ContactSectionTitle"
+}

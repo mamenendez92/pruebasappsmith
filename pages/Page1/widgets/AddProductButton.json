@@ -1,0 +1,13 @@
+{
+  "bottomRow": 44,
+  "buttonStyle": "PRIMARY",
+  "isVisible": true,
+  "leftColumn": 32,
+  "onClick": "{{storeValue('productsList', [...(appsmith.store.productsList || []), {producto: '', cantidad: 1, precioUnitario: 0, subtotal: 0}])}}",
+  "rightColumn": 48,
+  "text": "+ Agregar Producto",
+  "topRow": 41,
+  "type": "BUTTON_WIDGET",
+  "widgetId": "btnAddProduct",
+  "widgetName": "AddProductButton"
+}

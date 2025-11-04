@@ -1,0 +1,15 @@
+{
+  "bottomRow": 31,
+  "defaultText": "{{`PED-${Date.now()}`}}",
+  "inputType": "TEXT",
+  "isRequired": true,
+  "label": "Número de Pedido",
+  "labelTextSize": "0.875rem",
+  "leftColumn": 1,
+  "placeholderText": "Ej: PED-001",
+  "rightColumn": 24,
+  "topRow": 24,
+  "type": "INPUT_WIDGET_V2",
+  "widgetId": "inputOrderNumber",
+  "widgetName": "OrderNumberInput"
+}

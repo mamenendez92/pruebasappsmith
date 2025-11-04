@@ -1,0 +1,12 @@
+{
+  "bottomRow": 36,
+  "inputType": "TEXT",
+  "label": "Dirección",
+  "leftColumn": 1,
+  "placeholderText": "Calle, número, ciudad...",
+  "rightColumn": 30,
+  "topRow": 29,
+  "type": "INPUT_WIDGET_V2",
+  "widgetId": "inputContactAddress",
+  "widgetName": "ContactAddressInput"
+}

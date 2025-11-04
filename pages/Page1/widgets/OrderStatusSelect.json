@@ -1,0 +1,32 @@
+{
+  "bottomRow": 39,
+  "defaultOptionValue": "pending",
+  "isRequired": true,
+  "label": "Estado del Pedido",
+  "labelTextSize": "0.875rem",
+  "leftColumn": 1,
+  "options": [
+    {
+      "label": "Pendiente",
+      "value": "pending"
+    },
+    {
+      "label": "En Proceso",
+      "value": "processing"
+    },
+    {
+      "label": "Completado",
+      "value": "completed"
+    },
+    {
+      "label": "Cancelado",
+      "value": "cancelled"
+    }
+  ],
+  "placeholderText": "Seleccione estado...",
+  "rightColumn": 24,
+  "topRow": 32,
+  "type": "SELECT_WIDGET",
+  "widgetId": "selectStatus",
+  "widgetName": "OrderStatusSelect"
+}

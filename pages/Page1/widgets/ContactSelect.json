@@ -1,0 +1,30 @@
+{
+  "bottomRow": 18,
+  "defaultOptionValue": "",
+  "isFilterable": true,
+  "isRequired": true,
+  "label": "Seleccionar Cliente",
+  "labelTextSize": "0.875rem",
+  "leftColumn": 1,
+  "options": [
+    {
+      "label": "Juan Pérez - juan@example.com",
+      "value": "1"
+    },
+    {
+      "label": "María García - maria@example.com",
+      "value": "2"
+    },
+    {
+      "label": "Carlos López - carlos@example.com",
+      "value": "3"
+    }
+  ],
+  "placeholderText": "Seleccione un cliente...",
+  "rightColumn": 32,
+  "serverSideFiltering": false,
+  "topRow": 11,
+  "type": "SELECT_WIDGET",
+  "widgetId": "selectContact",
+  "widgetName": "ContactSelect"
+}

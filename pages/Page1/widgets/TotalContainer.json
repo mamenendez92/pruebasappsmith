@@ -1,0 +1,11 @@
+{
+  "backgroundColor": "#F8F9FA",
+  "borderRadius": "0.375rem",
+  "bottomRow": 70,
+  "leftColumn": 28,
+  "rightColumn": 48,
+  "topRow": 66,
+  "type": "CONTAINER_WIDGET",
+  "widgetId": "containerTotal",
+  "widgetName": "TotalContainer"
+}

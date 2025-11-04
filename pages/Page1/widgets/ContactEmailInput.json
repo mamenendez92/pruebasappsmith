@@ -1,0 +1,13 @@
+{
+  "bottomRow": 20,
+  "inputType": "EMAIL",
+  "isRequired": true,
+  "label": "Email",
+  "leftColumn": 1,
+  "placeholderText": "ejemplo@email.com",
+  "rightColumn": 30,
+  "topRow": 13,
+  "type": "INPUT_WIDGET_V2",
+  "widgetId": "inputContactEmail",
+  "widgetName": "ContactEmailInput"
+}

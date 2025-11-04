@@ -1,0 +1,13 @@
+{
+  "bottomRow": 42,
+  "buttonStyle": "PRIMARY",
+  "isDisabled": "{{!ContactNameInput.text || !ContactEmailInput.text}}",
+  "leftColumn": 16,
+  "onClick": "{{showAlert('Cliente guardado: ' + ContactNameInput.text, 'success'); closeModal('NewContactModal')}}",
+  "rightColumn": 30,
+  "text": "Guardar Cliente",
+  "topRow": 38,
+  "type": "BUTTON_WIDGET",
+  "widgetId": "btnModalSave",
+  "widgetName": "ModalSaveButton"
+}

@@ -1,0 +1,13 @@
+{
+  "bottomRow": 76,
+  "buttonStyle": "SECONDARY",
+  "isVisible": true,
+  "leftColumn": 28,
+  "onClick": "{{resetWidget('FormContainer', true); storeValue('productsList', [])}}",
+  "rightColumn": 37,
+  "text": "Cancelar",
+  "topRow": 72,
+  "type": "BUTTON_WIDGET",
+  "widgetId": "btnCancel",
+  "widgetName": "CancelButton"
+}

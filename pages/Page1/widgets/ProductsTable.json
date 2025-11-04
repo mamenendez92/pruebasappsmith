@@ -1,0 +1,87 @@
+{
+  "bottomRow": 65,
+  "defaultSelectedRowIndex": 0,
+  "isVisibleDownload": false,
+  "isVisibleFilters": false,
+  "isVisiblePagination": false,
+  "isVisibleSearch": false,
+  "leftColumn": 1,
+  "primaryColumns": {
+    "acciones": {
+      "buttonColor": "#DD4B39",
+      "buttonLabel": "Eliminar",
+      "columnType": "button",
+      "id": "acciones",
+      "index": 4,
+      "isVisible": true,
+      "label": "Acciones",
+      "onClick": "{{storeValue('productsList', appsmith.store.productsList.filter((item, index) => index !== ProductsTable.selectedRowIndex))}}",
+      "width": 100
+    },
+    "cantidad": {
+      "columnType": "number",
+      "id": "cantidad",
+      "index": 1,
+      "isEditable": true,
+      "isVisible": true,
+      "label": "Cantidad",
+      "width": 100
+    },
+    "precioUnitario": {
+      "columnType": "number",
+      "id": "precioUnitario",
+      "index": 2,
+      "isEditable": true,
+      "isVisible": true,
+      "label": "Precio Unit.",
+      "width": 120
+    },
+    "producto": {
+      "columnType": "select",
+      "id": "producto",
+      "index": 0,
+      "isEditable": true,
+      "isVisible": true,
+      "label": "Producto",
+      "selectOptions": [
+        {
+          "label": "Laptop Dell XPS 13",
+          "value": "laptop-dell"
+        },
+        {
+          "label": "Mouse Logitech MX Master",
+          "value": "mouse-logitech"
+        },
+        {
+          "label": "Teclado Mecánico",
+          "value": "keyboard-mech"
+        },
+        {
+          "label": "Monitor LG 27\"",
+          "value": "monitor-lg"
+        },
+        {
+          "label": "Webcam HD",
+          "value": "webcam"
+        }
+      ],
+      "width": 200
+    },
+    "subtotal": {
+      "columnType": "number",
+      "computedValue": "{{ProductsTable.processedTableData.map((row) => row.cantidad * row.precioUnitario)}}",
+      "id": "subtotal",
+      "index": 3,
+      "isEditable": false,
+      "isVisible": true,
+      "label": "Subtotal",
+      "width": 120
+    }
+  },
+  "rightColumn": 48,
+  "tableData": "{{appsmith.store.productsList || []}}",
+  "topRow": 45,
+  "type": "TABLE_WIDGET_V2",
+  "widgetId": "tableProducts",
+  "widgetName": "ProductsTable"
+}

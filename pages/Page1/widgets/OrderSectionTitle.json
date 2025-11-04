@@ -1,0 +1,14 @@
+{
+  "bottomRow": 23,
+  "fontSize": "1.125rem",
+  "fontStyle": "BOLD",
+  "leftColumn": 1,
+  "rightColumn": 30,
+  "text": "Detalles del Pedido",
+  "textAlign": "LEFT",
+  "textColor": "#231F20",
+  "topRow": 20,
+  "type": "TEXT_WIDGET",
+  "widgetId": "sectionOrder",
+  "widgetName": "OrderSectionTitle"
+}
